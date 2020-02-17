@@ -1,27 +1,15 @@
 {
     "response": {
-        "status": "success",
-        "code": "0",
-        "description": "Success",
-        "body": {
-            "transactionalAccounts": [
-                {
-                    "accountNumber": "XXXXXX8301",
-                    "accountNumberToken": "933ef8e8722b0761cdc8efba0dd40b9a",
-                    "displayOrder": "001",
-                    "accountPreferredName": "CHECKING ACCOUNT",
-                    "institution": "BPI",
-                    "accountType": "CHECKING ACCOUNT"
-                },
-                {
-                    "accountNumber": "XXXXXX2387",
-                    "accountNumberToken": "233eca40ff303ba15bf39052ca3102c6",
-                    "displayOrder": "002",
-                    "accountPreferredName": "CHECKING ACCOUNT",
-                    "institution": "BPI",
-                    "accountType": "CHECKING ACCOUNT"
-                }
-            ]
+        {
+            "transactionId": "12027c4f-5146-4bfd-b563-1887104a9"
+        }
+        {
+            "status": "success",
+            "code": "0",
+            "description": "Success",
+            "body": {
+            "mobileNumber": "+6391*****309",
+            "mobileNumberToken": "8abffd6338d58192ac7b638bbfa2d842"
         }
     }
 }
