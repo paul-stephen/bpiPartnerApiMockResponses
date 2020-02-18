@@ -5,8 +5,7 @@
         "code": "0",
         "description": "Success",
         "body": {
-            "mobileNumber": "+6391*****309",
-            "mobileNumberToken": "8abffd6338d58192ac7b638bbfa2d842"
+            "otpValidUntil": "Thu Sep 28 2019 15:09:36 GMT+0800 (DST)"
         }
     }
 }
