@@ -1,11 +1,10 @@
 {
     "response": {
-        "transactionId": "12027c4f-5146-4bfd-b563-1887104a9",
-        "status": "success",
-        "code": "0",
-        "description": "Success",
-        "body": {
-            "otpValidUntil": "Thu Sep 28 2019 15:09:36 GMT+0800 (DST)"
-        }
+        "token_type": "bearer",
+        "access_token": "AAIkNGRlNzIzZWUtMDJiNi00YTUyLTg1MmYtZmU3YTJhMzEyMzAxzeIgZY6a9xucuAiJIzwMe0tPeixQRdE-MVvbCI0KlbDNV_a7Bofzgnwp_JJeVtkfOaA7RPCBlejomBiOfyrp4",
+        "expires_in": 1800,
+        "scope": "accountsWithBalances",
+        "refresh_token": "AALOGciSdpUX71luFnGpgun3IZP_XkjivA9iJGNkF1of3wlWDInzUFoyyNswwOCWmObR8oNEn2i4iT_clcDUEnn03sRPx7ccUK6c_zzghRE5Vlv5N_1BFZp5oZJD7Da1KpI"
     }
+}
 }
